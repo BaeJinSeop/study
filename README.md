@@ -6,7 +6,7 @@ AI가 코드를 대신 짜주는 시대일수록, 시스템이 **왜** 그렇게
 
 - 커리큘럼 & 진행 현황: [CURRICULUM.md](./CURRICULUM.md)
 - 공부 방식: Claude와 함께 ([CLAUDE.md](./CLAUDE.md))
-- 블로그: [velog](https://velog.io/@아이디)
+- 블로그: [velog](https://velog.io/@jinseop-dev/posts)
 
 ## 공부 원칙
 
